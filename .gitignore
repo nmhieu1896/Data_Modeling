@@ -109,7 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-password.py
+env_password.py
 
 # Spyder project settings
 .spyderproject
