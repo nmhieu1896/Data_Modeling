@@ -1,2 +1,2 @@
 # Data_Modeling
-Let's see 
+Learn how to modeling data with Postgres and Python
