@@ -2,13 +2,13 @@
 
 
 ### Step1: Create tables for storing by running script:
-> "python create_tables.py"
+> python create_tables.py
 
 This script Drop all exists tables and create new ones
 
 
 ### Step2: Run pipeline by script:
-> "python etl.py"
+> python etl.py
 
 This script load data from songs_data and log_data. Then insert these data into created tables
 
